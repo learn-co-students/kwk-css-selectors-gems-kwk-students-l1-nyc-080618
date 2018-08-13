@@ -4,7 +4,7 @@ html {
 
 img {
   position: relative;
-  z-index: 11;
+  z-index: 12;
   cursor: pointer;
 }
 
@@ -26,6 +26,7 @@ img {
   background: url(../images/treasure-chest-background.png) no-repeat;
   z-index: 0;
   top: 150px;
+
 }
 #wheelbarrow-foreground {
   pointer-events: none;
